@@ -1,11 +1,18 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:physics.plasma-ph OR cat:physics.flu-dyn OR cat:physics.chem-ph OR cat:physics.app-ph'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        discharge: 3
+        breakdown: 3
+        microwave: 3
+        millimeter: 3 
+        rocket: 2
+        thruster: 2
+        detailed chemical reaction: 3
+        radiation transport: 1
+        photoionization: 1
+        photoexcitation: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 2
