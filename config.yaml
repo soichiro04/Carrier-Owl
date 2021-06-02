@@ -3,13 +3,13 @@ subject: 'cat:physics.plasma-ph OR cat:physics.flu-dyn OR cat:physics.chem-ph OR
 
 # 検索キーワード
 keywords:
-        discharge: 3
-        breakdown: 3
-        microwave: 3
-        millimeter: 3 
+        discharge: 1
+        breakdown: 1
+        microwave: 1
+        millimeter: 1 
         rocket: 2
         thruster: 2
-        detailed chemical reaction: 3
+        detailed chemical reaction: 1
         radiation transport: 1
         photoionization: 1
         photoexcitation: 1
