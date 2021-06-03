@@ -7,12 +7,18 @@ keywords:
         breakdown: 1
         microwave: 1
         millimeter: 1 
+        streamer: 1
         rocket: 2
         thruster: 2
+        propulsion: 2
         detailed chemical reaction: 1
         radiation transport: 1
-        photoionization: 1
-        photoexcitation: 1
+        photoionization: 2
+        photoexcitation: 2
+        gyrotron: 2
+        plasma: 1
+        microwave rocket: 2
+        
 
 # 通知の閾値
 score_threshold: 1
