@@ -21,4 +21,4 @@ keywords:
         
 
 # 通知の閾値
-score_threshold: 
+score_threshold: 2
